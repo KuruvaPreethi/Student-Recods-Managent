@@ -1,0 +1,18 @@
+Command 'cad' not found, did you mean:
+
+  command '0ad' from snap 0ad (0.28.0)
+  command 'yad' from deb yad
+  command 'cai' from deb emboss
+  command 'cas' from deb amule-utils
+  command 'ad' from deb netatalk
+  command 'card' from deb a2ps
+  command 'mad' from deb mmv
+  command 'cap' from deb capistrano
+  command 'dad' from deb debian-dad
+  command '0ad' from deb 0ad
+  command 'car' from deb ucommon-utils
+  command 'caf' from deb open-coarrays-bin
+  command 'cal' from deb bsdmainutils
+  command 'cat' from deb coreutils
+
+See 'snap info <snapname>' for additional versions.
