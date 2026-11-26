@@ -32,11 +32,8 @@ Project Files
 - "Student.dat" – Student data file
 - "Makefile" – Compilation instructions
 
-Compilation and Execution
-
+Compilation and Execution:
 make
 ./student
 
-Author
 
-Preethi Kuruva
